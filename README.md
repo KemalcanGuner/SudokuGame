@@ -9,5 +9,9 @@ Sudoku have 1.000.000+ different sudoku by our randomly generating algorithm.
 Other functionalities: dark theme, hint, check, time counter, give up, save&load.
 Ps:our hint is like a mini-game.
 
+If you have JRE on your computer, you can play Sudoku by downloading and extracting zipped file.
+
+
+
 For further information or questions: 
 emiryilmaz98@gmail.com
