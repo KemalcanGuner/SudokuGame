@@ -209,7 +209,7 @@ public class SudokuFrame extends JFrame {
 				}
 			}
 		});
-		
+		/*   */
 		undoButton = new JButton ("Undo");
 		c.gridx = 4;
 		c.gridy = 2;
