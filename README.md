@@ -15,3 +15,4 @@ If you have JRE on your computer, you can play Sudoku by downloading and extract
 
 For further information or questions: 
 emiryilmaz98@gmail.com
+kemalcangnr47@gmail.com
